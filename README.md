@@ -1,6 +1,6 @@
 # suryamart
 
-A new Flutter project.
+Skripsi 2022-2023
 
 ## Getting Started
 
